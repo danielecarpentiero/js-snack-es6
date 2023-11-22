@@ -1,3 +1,5 @@
+"use strict";
+
 let squadre = [
   {
     nome: "fiorentina",
