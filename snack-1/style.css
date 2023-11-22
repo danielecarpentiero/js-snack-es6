@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+main {
+  height: 90vh;
+}
+
+main .container {
+  height: 600px;
+  width: 37.5rem;
+}
+
+.container img {
+  height: 100%;
+  width: 100%;
+}
