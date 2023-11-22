@@ -13,11 +13,9 @@ main {
 }
 
 main .container {
-  height: 600px;
   width: 37.5rem;
 }
 
 .container img {
-  height: 100%;
   width: 100%;
 }
